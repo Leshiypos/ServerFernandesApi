@@ -1,0 +1,11 @@
+{
+  "widget": {
+    "name": "FM Leads (Site)",
+    "description": "Служебный виджет для интеграции сайта с amoCRM",
+    "short_description": "Приём заявок с сайта",
+    "version": "1.0.0",
+    "interface_version": 2,
+    "locale": ["ru"],
+    "installation": false
+  }
+}
